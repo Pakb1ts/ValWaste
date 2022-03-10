@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Valwaste</string>
+    <string name="login_as_dispatcher_inspector">Login as Dispatcher/Inspector</string>
+    <string name="valwaste">ValWaste</string>
+    <string name="login_as_palero">Login as Palero</string>
+    <string name="helloworld">HelloWorld</string>
+    <string name="login">Login</string>
+</resources>
